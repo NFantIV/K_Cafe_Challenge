@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Kom_Cafe.Data/1.0.0": {
+        "runtime": {
+          "Kom_Cafe.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kom_Cafe.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

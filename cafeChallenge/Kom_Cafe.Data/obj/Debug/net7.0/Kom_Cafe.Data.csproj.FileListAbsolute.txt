@@ -1,0 +1,12 @@
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/GB_Assignment/cafeChallenge/Kom_Cafe.Data/bin/Debug/net7.0/Kom_Cafe.Data.deps.json
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/GB_Assignment/cafeChallenge/Kom_Cafe.Data/bin/Debug/net7.0/Kom_Cafe.Data.dll
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/GB_Assignment/cafeChallenge/Kom_Cafe.Data/bin/Debug/net7.0/Kom_Cafe.Data.pdb
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/GB_Assignment/cafeChallenge/Kom_Cafe.Data/obj/Debug/net7.0/Kom_Cafe.Data.csproj.AssemblyReference.cache
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/GB_Assignment/cafeChallenge/Kom_Cafe.Data/obj/Debug/net7.0/Kom_Cafe.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/GB_Assignment/cafeChallenge/Kom_Cafe.Data/obj/Debug/net7.0/Kom_Cafe.Data.AssemblyInfoInputs.cache
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/GB_Assignment/cafeChallenge/Kom_Cafe.Data/obj/Debug/net7.0/Kom_Cafe.Data.AssemblyInfo.cs
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/GB_Assignment/cafeChallenge/Kom_Cafe.Data/obj/Debug/net7.0/Kom_Cafe.Data.csproj.CoreCompileInputs.cache
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/GB_Assignment/cafeChallenge/Kom_Cafe.Data/obj/Debug/net7.0/Kom_Cafe.Data.dll
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/GB_Assignment/cafeChallenge/Kom_Cafe.Data/obj/Debug/net7.0/refint/Kom_Cafe.Data.dll
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/GB_Assignment/cafeChallenge/Kom_Cafe.Data/obj/Debug/net7.0/Kom_Cafe.Data.pdb
+/Users/nelsonfantiv/Desktop/ElevenFiftyProjects/codingFoundations/assignments/GB_Assignment/cafeChallenge/Kom_Cafe.Data/obj/Debug/net7.0/ref/Kom_Cafe.Data.dll
